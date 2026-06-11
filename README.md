@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cjj826.cjj826)
 
-I am now a first year Master student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University (THU), Beijing, China. 
+I am now a second year Master student in [THUIR](http://ai.thuir.cn/), Department of Computer Science and Technology in Tsinghua University (THU), Beijing, China. 
 
 My supervisors are Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) and Prof. [Qingyao Ai](http://www.thuir.cn/group/~aiqy/). 
 
